@@ -1,5 +1,5 @@
 - Accounts/Login
-- Imange Upload with TTL
+- Image Upload with TTL (title and description)
 - Gallery
 
 - Picture Ratings
@@ -7,3 +7,6 @@
 - Image in Gallery IP Overlay (Imgix?)
 - Donations
 - Payments/Ads
+
+- Users can delete their images
+- Users can modify image TTL, title, and description
